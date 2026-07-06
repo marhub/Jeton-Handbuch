@@ -1,16 +1,16 @@
 ---
 layout: default
-title: Einleitung
+title: Introduction
 nav_order: 1
 ---
 
-## Ein Handbuch für WEN?
-Dieses Handbuch richtet sich vor allem an Inhaber von alten JETONs, die das Boot gerade gebraucht erworben haben oder schon länger einen JETON haben und neuerdings ihre sportlichen Ambitionen entdecken.
+## A manual for WHOM?
+This manual is aimed above all at owners of old JETONs who have just bought the boat used, or who have had a JETON for a while and have recently discovered their sporting ambitions.
 
-## Überblick
-Serien-JETONs von Klepper oder von Gruben sind von Hause aus nicht komfortabel ausgestattet. Die Beschlagsausrüstung entspricht nicht dem neuesten Stand der Technik und vor allem nicht den Bedürfnissen des Regattasegelns.
-In diesem Handbuch findet man einerseits grundlegende Informationen über das Boot im allgemeinen, Baumerkmale, Entwicklungen, etc. Außerdem werden Maßnahmen beschrieben, die zu einer Steigerung der Bootsgeschwindigkeit oder aber auch nur zu einer Steigerung des Spaßes am Segeln führen sollen. Einige der hier beschriebenen Maßnahmen gelten nur für ältere Boote. Darauf wird an den entsprechenden Kapiteln hingewiesen. Die Berliner Serie und die Boote von Fröschke und von Robert Franz entsprechen dem neuesten Stand der Technik.
-Weiterhin enthält das Buch einige Trimmhinweise, die natürlich für alle JETONs gelten.
+## Overview
+Production JETONs from Klepper or from Gruben are not comfortably equipped out of the box. The fitting-out does not correspond to the latest state of the art and, above all, not to the needs of regatta sailing.
+In this manual you will find, on the one hand, basic information about the boat in general—construction features, developments, etc. In addition, measures are described that are intended to lead to an increase in boat speed, or simply to an increase in the fun of sailing. Some of the measures described here apply only to older boats. This is pointed out in the relevant chapters. The Berlin series and the boats from Fröschke and from Robert Franz correspond to the latest state of the art.
+The book also contains some trim tips, which of course apply to all JETONs.
 
-## Ziel
-In diesem Handbuch sind alle (mir) bekannten Bau- und Trimmaßnahmen zusammengestellt. Es ist nicht so gemeint, daß alle Maßnahme notwendig sind, um ein Boot schnell oder konkurrenzfähig zu machen. Dies gilt vor allem für Baumaßnahmen. Zwei Dinge sind allerdings für eine gute Am-Wind-Leistung des Bootes unverzichtbar: die richtige Lage der Meßmarke MVS (->Kapitel 4) und der Fockholepunkt (->Kapitel 5). Der richtige Trimm ist natürlich in jedem Fall erforderlich, aber auch leicht zu erreichen.
+## Aim
+This manual brings together all the construction and trim measures known (to me). It is not meant to suggest that all the measures are necessary to make a boat fast or competitive. This applies above all to construction measures. Two things, however, are indispensable for a good windward performance of the boat: the correct position of the measurement band MVS (->Chapter 4) and the jib fairlead (->Chapter 5). Correct trim is of course required in any case, but is also easy to achieve.

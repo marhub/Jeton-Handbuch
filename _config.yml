@@ -2,7 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 
 # Aux links for the upper right navigation
 aux_links:
-  "Jeton-Handbuch auf GitHub":
+  "Original Jeton Manual (DE) on GitHub":
     - "//github.com/asjeton/handbuch"
 
 # Makes Aux links open in a new tab. Default is false
@@ -19,7 +19,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
-gh_edit_link_text: "Diese Seite auf GitHub bearbeiten."
+gh_edit_link_text: "Edit this page on GitHub."
 gh_edit_repository: "https://github.com/asjeton/handbuch" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from

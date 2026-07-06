@@ -1,47 +1,47 @@
 ---
 layout: default
-title: Rumpfbauweise
+title: Hull Construction
 nav_order: 3
 ---
 
-# RUMPFBAUWEISE
+# HULL CONSTRUCTION
 {: .no_toc }
 
-## Inhalt
+## Contents
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 ---
 
-## Laminierformen
+## Laminating Moulds
 
-Die Form des Rumpfes ist durch die Klassenvorschrift festgelegt. Die Klassenvorschrift forderte früher, daß alle Laminierformen von ein und demselben Kern (Mutter) abgenommen werden, um die Gleichheit der Rümpfe zu garantieren. Dieser Paragraph wurde jedoch gestrichen, weil nach der Übergabe an Gruben nicht mehr auffindbar war.
+The shape of the hull is fixed by the class rules. The class rules formerly required that all laminating moulds be taken from one and the same plug (mother), in order to guarantee the uniformity of the hulls. This paragraph, however, was struck out because after the handover to Gruben the plug could no longer be found.
 
-Wie viele Laminierformen im Laufe der Zeit von Klepper benutzt wurden, ist nicht bekannt. Der bei Klepper benutzte Kern wurde in den siebziger Jahren modifiziert um die lichte Weite des Schwertkastens von 24 mm auf 30 mm zu erhöhen. Zur Zeit existieren im Besitz der Bootswerft Gruben zwei Laminierformen, die noch von Klepper stammen. Beide haben den breiten Schwertkasten. Die eine Form ist an die Yacht- und Bootswerft Robert Franz ausgeliehen. Diese wurde wegen der modernen Fockholepunkt und dem neuen Cockpitlayout modifiziert. Die äußere Form blieb jedoch unverändert.
+How many laminating moulds were used by Klepper over the course of time is not known. The plug used at Klepper was modified in the seventies to increase the clear width of the centreboard case from 24 mm to 30 mm. At present there are two laminating moulds in the possession of the Gruben boatyard that still date from Klepper. Both have the wide centreboard case. One mould is on loan to the Robert Franz yacht and boat yard. It was modified for the modern jib fairlead and the new cockpit layout. The outer shape, however, remained unchanged.
 
-Die Unterschale ist bei allen Booten äußerlich exakt gleich. Auch die Oberschalen der von Klepper und Gruben gebauten Rümpfe sind gleich bis auf die Breite des Schwertkastens. Dies gilt auch für die Berliner Serie mit einer Ausnahme: Die auf dem Seitendeck in die Form eingearbeiteten Sockel für die Luvklemmen der Fock und die Aussparungen für die Fockleitschienen, die für die modernen Holepunkte nicht mehr nötig sind, fehlen. Das neue Cockpitlayout des Regatta-JETONs erforderte einige Formänderungen im Cockpitbereich, einige zusätzliche Formteile (Schwertkastenkragen, Reitbalken, Seitenblenden werden zusätzlich eingebaut. Das Innenleben der Schalen hat sich jedoch mit den Jahren mehrfach verändert.
+The lower shell is externally exactly the same on all boats. The upper shells of the hulls built by Klepper and Gruben are also identical apart from the width of the centreboard case. This also applies to the Berlin series, with one exception: the bases worked into the mould on the side deck for the windward jib cleats, and the recesses for the jib fairlead tracks, which are no longer needed for the modern fairleads, are absent. The new cockpit layout of the regatta JETON required a number of mould changes in the cockpit area; some additional moulded parts (centreboard case collar, thwart beam, side panels) are fitted in addition. The internal structure of the shells, however, has changed several times over the years.
 
-## Laminat
+## Laminate
 
-Der JETON-Rumpf besteht aus Ober- und Unterschale. Beide Teile bestehen aus einem Grundlaminat aus Glasmatte und Glasgewebe. Stellenwiese, vor allem an ebenen Flächen sind Verstärkungen durch Sandwichbauweise oder Stringer zur Stabilisierung eingesetzt. Die Gesamtsteifigkeit des Rumpfes wird durch ein Halbschott im Bereich der Wantenpüttinge und ein zweites im Sitzbereich des Steuermanns erhöht. Unter dem Mast und im Doppelboden befinden sich Längs- und Querschotten.
-Außer an der Klebekante an der Scheuerleiste und am Schwertkasten sind Ober- und Unterschale auch durch die Mastunterstützung und durch Schotten im Doppelboden verklebt.
+The JETON hull consists of an upper and a lower shell. Both parts consist of a base laminate of chopped-strand mat and glass cloth. In places, above all on flat surfaces, reinforcements are used in the form of sandwich construction or stringers for stabilization. The overall stiffness of the hull is increased by a half-bulkhead in the area of the shroud chainplates and a second in the helmsman's seating area. Under the mast and in the double bottom there are longitudinal and transverse bulkheads.
+Apart from the glue joint at the rubbing strake and at the centreboard case, the upper and lower shells are also bonded together by the mast support and by bulkheads in the double bottom.
 
-### Grundlaminat
+### Base Laminate
 
-* Bei den Klepper- und Grubenbooten besteht das Grundlaminat aus mehreren Schichten Matte mit einer Schicht Rowinggewebe als Abschluß.
-* Die Boote der Berliner Serie, die von Fröschke und von Robert Franz sind mit einem höheren Anteil Gewebe gebaut. Unterschiedliche Materialstärken dienen der optimalen Lastverteilung und Gewichtskonzentration.
+* On the Klepper and Gruben boats the base laminate consists of several layers of mat with one layer of roving cloth as the finishing layer.
+* The boats of the Berlin series and those from Fröschke and from Robert Franz are built with a higher proportion of cloth. Different material thicknesses serve for optimum load distribution and weight concentration.
 
-### Versteifungen
+### Stiffeners
 
-* **Unterstützung des Mastes:** Dies war bei Klepper-JETONs teilweise ein Schaumblock. Gruben, die Berliner und auch Fröschke bauen ein Querschott aus Holz ein. Robert Franz benutzt einen Querträger nur aus GFK.
-* **Halbschott:** Dies liegt in der Verbindungslinie der beiden Wantenpüttinge. Bei den Klepper-JETONs besteht es aus zwei Dreiecken, die nur im den Seitentanks liegen. Im Sitzbereich des Steuermanns befindet sich ein weiteres Paar Dreiecke. Die Halbschotten fehlen bei den Grubenbooten. Bei den Berlinern und bei Fröschke-JETONs geht das vordere Halbschott über die gesamte Breite des Bootes und ragt auch in den Schwertkasten.
-* **Sandwich / Stringer:** Klepper hat im Laufe der Zeit verschiedene Arten der Versteifung des Decks verwendet. Ältere Boote haben unter dem Vordeck und im Sitzbereich Stringer, die über Schaumträger laminiert sind. Bei den neueren Klepper-JETONs wurde das Vordeck ganzflächig mit einem Sandwich aus PVC-Schaum belegt, der Sitzbereich mit breiten Streifen. Gruben setzt zur Versteifung von Flächen Coremat  ein. Bei den Berliner, Fröschke und Franz-JETONs wird ein System von Strengeren benutzt um einerseits die Gesamtsteifigkeit des Rumpfes günstig zu beeinflussen und andererseits Flächen zu stabilisieren.
-* **Schwertkastensteifigkeit:** Die Steifigkeit des Schwertkastens war bei den Klepper und Gruben booten immer ein Problem, da er keinerlei Versteifungen oder Abstützungen enthält. Bei den Berliner-, Fröschke- und den Robert-Franz-JETONs ist das Halbschott bis in den Schwertkasten gezogen um ihn im vorderen Bereich steif zu machen. Die Berliner JETONs haben im Druckpunkt des Schwertes ein weiteres Schott im Schwertkasten. Bei den Fröschke-JETONs ist der Schwertkasten weiter hinten durch den Reitbalken abgestützt und durch den Schwertkastenkragen über die ganze Länge versteift. In Kapitel 6 findet man eine Bauanleitung zur Versteifung des Schwertkastens.
-* **Ausschäumung des Doppelbodens:** Einige Boote waren im Doppelboden ausgeschäumt. Solange die Boote neu waren, war das gut. Später hat sich der Schaum voll Wasser gesogen oder ist zerbröselt.
+* **Support of the mast:** On Klepper JETONs this was sometimes a foam block. Gruben, the Berlin boats and also Fröschke fit a transverse bulkhead made of wood. Robert Franz uses a cross member made purely of GRP.
+* **Half-bulkhead:** This lies on the line connecting the two shroud chainplates. On the Klepper JETONs it consists of two triangles that lie only in the side tanks. In the helmsman's seating area there is a further pair of triangles. The half-bulkheads are absent on the Gruben boats. On the Berlin and Fröschke JETONs the forward half-bulkhead runs across the entire width of the boat and also projects into the centreboard case.
+* **Sandwich / Stringer:** Klepper used various methods of stiffening the deck over time. Older boats have stringers under the foredeck and in the seating area, laminated over foam formers. On the newer Klepper JETONs the foredeck was covered over its entire surface with a sandwich of PVC foam, the seating area with broad strips. Gruben uses Coremat to stiffen surfaces. On the Berlin, Fröschke and Franz JETONs a system of stringers is used, on the one hand to favourably influence the overall stiffness of the hull and on the other to stabilize surfaces.
+* **Centreboard case stiffness:** The stiffness of the centreboard case was always a problem on the Klepper and Gruben boats, since it contains no reinforcements or supports whatsoever. On the Berlin, Fröschke and Robert Franz JETONs the half-bulkhead is carried into the centreboard case to make it stiff in the forward area. The Berlin JETONs have a further bulkhead in the centreboard case at the pressure point of the centreboard. On the Fröschke JETONs the centreboard case is supported further aft by the thwart beam and stiffened over its entire length by the centreboard case collar. In Chapter 6 you will find a construction guide for stiffening the centreboard case.
+* **Foam-filling of the double bottom:** Some boats had the double bottom foam-filled. As long as the boats were new, this was good. Later the foam soaked full of water or crumbled away.
 
-### Gewicht
+### Weight
 
-Das Rumpfgewicht wurde früher durch die Klassenvorschrift auf 125 kg begrenzt. Die Klepper-JETONs hatten ein Standardgewicht von ca. 136 kg. Es soll jedoch auch "Ausreißer" gegeben haben, bei denen die Identifikationsplakette ein Gewicht von 165 kg auswies. Die Grubenboote liegen mit ihrem Gewicht zwischen 128 und 145 kg. Die Boote der Berliner Serie wiegen 125-127 kg. Robert Franz baut wie Fröschke Boote von unter 115 kg entsprechend der jetzt geänderten Klassenvorschrift.
+The hull weight used to be limited to 125 kg by the class rules. The Klepper JETONs had a standard weight of about 136 kg. There are said, however, to have been "outliers" whose identification plaque showed a weight of 165 kg. The Gruben boats lie in weight between 128 and 145 kg. The boats of the Berlin series weigh 125–127 kg. Robert Franz, like Fröschke, builds boats of under 115 kg in accordance with the now-changed class rules.
 
-Während das "normale" Klepper-Gewicht von 136 kg für den JETON einigermaßen akzeptabel ist, sind schwerere Schalen deutlich benachteiligt, da der JETON dann deutlich bis unter die Konstruktionswasserlinie eintaucht. Die Verringerung des Gewichtes auf 115 kg hat dem JETON gutgetan. Das Boot ist sensibler und spritziger geworden.
+While the "normal" Klepper weight of 136 kg is reasonably acceptable for the JETON, heavier shells are clearly at a disadvantage, since the JETON then sinks noticeably below the design waterline. Reducing the weight to 115 kg has done the JETON good. The boat has become more sensitive and livelier.

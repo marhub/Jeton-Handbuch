@@ -1,24 +1,29 @@
 Matthias Menningen CC-BY-SA 4.0
 
-# JETON TECHNISCHES HANDBUCH
+#
 
-Das technisches Handbuch für Jetons wurde 1992 erstellt, um Jeton-Seglern
-technische Informationen zu ihrem Boot und Anleitungen zum Optimierung ihres Bootes
-zur Verfügung zu stellen.
+# JETON TECHNICAL MANUAL
 
-Einges darin ist überholt, einige Kapitel enthalten immer noch nützliche Informationen.
-Die Jeton-Wissensbasis wird unter https://github.com/ASJeton weiter gepflegt.
+The technical manual for Jetons was created in 1992 to provide Jeton sailors
+with technical information about their boat and instructions on how to optimize it.
 
-Der Ausgabe von 1992 findet unverändert ihr [hier](https://www.segel.de/jeton/index_htm_files/jeton-handbuch%203-1.pdf).
+Some of it is outdated, but some chapters still contain useful information.
+The Jeton knowledge base continues to be maintained at https://github.com/ASJeton.
 
-## GitHub-Pages
-Die Quelldateien in diesem Repository werden automatisch via GitHub-Pages erstellt.
-Das Ergebnis ist dann dort verfügbar:
+The 1992 edition can be found unchanged [here](https://www.segel.de/jeton/index_htm_files/jeton-handbuch%203-1.pdf).
+
+## GitHub Pages
+The source files in this repository are built automatically via GitHub Pages.
+The result is then available here:
+
+TODO
+
+Orignal in DE is avaliable here:
 
 **https://asjeton.github.io/Handbuch**  
 
 
-Für die lokale Entwicklung kann [Jekyll installiert](https://jekyllrb.com/docs/) und die Erstellung via `bundle exec jekyll browsersync` angestoßen werden. 
+For local development, you can [install Jekyll](https://jekyllrb.com/docs/) and trigger the build via `bundle exec jekyll browsersync`.
 
-## Lizenz
+## License
 Matthias Menningen CC-BY-SA 4.0

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: Historie
+title: History
 nav_order: 2
 ---
 
-## Konstruktion
-In der JETON-Klassenvorschrift steht, daß der JETON von Uwe Mares und Hubert Raudaschl im Auftrage der Firma Klepper konstruiert wurde. Der Riss des JETON geht sicherlich auf das von Uwe Mares für den Wettbewerb um die internationale Einmanntrapezjolle gezeichnete Boot zurück, das er ebenfalls JETON nannte. Dieses Boot war allerdings etwas kleiner als unser JETON, der dann im Auftrag der Firma Klepper daraus wurde.
+## Design
+The JETON class rules state that the JETON was designed by Uwe Mares and Hubert Raudaschl on behalf of the Klepper company. The lines of the JETON certainly go back to the boat Uwe Mares drew for the competition for the international single-handed trapeze dinghy, which he also called JETON. That boat, however, was somewhat smaller than our JETON, which was then developed from it on behalf of the Klepper company.
 
-## Fertigung/Lizenzen
-Der JETON wurde bis ca. 1980 von Klepper gebaut. Seitdem hält die Bootswerft Gruben die Lizenz. 1986-87 wurde eine kleine Serie JETONs von Menningen, Hunger und Niermann in Berlin in Lizenz gebaut. Dieses Projekt diente zur Erstellung eines neuen, optimierten Baukonzeptes. Von 1989-1992 stellte die Bootswerft Fröschke in Mardorf am Steinhuder Meer den Regatta-JETON in Lizenz her. Seit Oktober 1992 hat die Yacht- und Bootswerft Robert Franz die Fertigung der Regatta-JETONs übernommen. Die Yacht- und Bootswerft Robert Franz gehörte bis Ende 1992 zur der Forschungs- und Entwicklungsstelle für Sportgeräte (FES) und ist seit Anfang 1993 ein Privatbetrieb. Fröschke und Robert Franz benutzten das in Berlin erarbeitete Konzept. Robert Franz baut Jollen der olympischen Klassen. Die dafür entwickelten Technologien werden auch bei der Fertigung der JETONs eingesetzt. Der JETON wird stetig verbessert und weiterentwickelt werden.
-## Klassenvorschrift
-Der JETON war bis 1974 eine Eintypklasse. In dieser Zeit wurde die Klassenvorschrift mehrfach geändert. Insbesondere das Rigg machte in dieser Zeit einige Änderungen durch:
-* Nach der Vergrößerung der Segelfläche wanderte der Anschlagspunkt (Meßmarke VS) von Wanten und Fock weiter nach oben.
-1974 erlangte der JETON den Status einer nationalen Klasse. Seither erfolgten drei wesentliche Änderungen:
-* Neufassung Fockholepunkt
-* 1985: Freigabe Fockholepunkt
-* Verjüngter Mast, Rumpfgewicht, Neues Cockpitlayout, Lenzschächte. Die Klassenvorschrift vom technischen Ausschuß des DSV wurde stark überarbeitet.
+## Production/Licences
+The JETON was built by Klepper until about 1980. Since then the Gruben boatyard has held the licence. In 1986–87 a small series of JETONs was built under licence by Menningen, Hunger and Niermann in Berlin. This project served to develop a new, optimized construction concept. From 1989–1992 the Fröschke boatyard in Mardorf on the Steinhuder Meer produced the regatta JETON under licence. Since October 1992 the Robert Franz yacht and boat yard has taken over production of the regatta JETONs. The Robert Franz yacht and boat yard belonged until the end of 1992 to the Research and Development Institute for Sports Equipment (FES) and has been a private business since the beginning of 1993. Fröschke and Robert Franz used the concept developed in Berlin. Robert Franz builds dinghies of the Olympic classes. The technologies developed for them are also used in the production of the JETONs. The JETON will be continually improved and further developed.
+## Class Rules
+Until 1974 the JETON was a one-design class. During this period the class rules were changed several times. The rig in particular underwent a number of changes during this time:
+* After the sail area was enlarged, the attachment point (measurement band VS) of the shrouds and jib moved further up.
+In 1974 the JETON attained the status of a national class. Since then there have been three significant changes:
+* Redefinition of the jib fairlead
+* 1985: Jib fairlead made free (unrestricted)
+* Tapered mast, hull weight, new cockpit layout, self-bailers. The class rules were heavily revised by the technical committee of the DSV.
