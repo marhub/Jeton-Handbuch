@@ -16,7 +16,7 @@ The 1992 edition can be found unchanged [here](https://www.segel.de/jeton/index_
 The source files in this repository are built automatically via GitHub Pages.
 The result is then available here:
 
-TODO
+**https://marhub.github.io/Jeton-Handbuch/**
 
 Orignal in DE is avaliable here:
 
